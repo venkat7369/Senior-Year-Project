@@ -298,4 +298,3 @@ def predict(csvdata):
     plt.savefig('plot.eps', dpi=450)
     plt.show()
 
-#code woerigvb
